@@ -1,0 +1,20 @@
+/* Nullystyle all */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "CyrillicOld";
+  overflow: overlay;
+}
+
+/* nullystyle wrapper */
+
+.wrapper {
+  overflow-x: hidden;
+}
+
+/* nullystyle screen */
+
+.screen {
+  min-height: 100vh;
+  min-width: 100vw;
+}
